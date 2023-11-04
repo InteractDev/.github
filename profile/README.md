@@ -1,12 +1,5 @@
-## Hi there 👋
+![InteractDevLogoTransparent](https://github.com/InteractDev/.github/assets/76606192/636999fc-2ebb-4913-8169-404fe18addb9)
 
-<!--
+Welcome to InteractDev! This is a holding organization for the SCP:SL Exiled plugin API, InteractiveButtons, by KadotCom.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+InteractiveButtons is an EXILED Plugin API that adds buttons in SCP:SL by using items.
